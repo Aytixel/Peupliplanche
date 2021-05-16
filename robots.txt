@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: *error.htm
+Disallow: *bloc-note
+Disallow: /img/planche/
+Allow: /img/planche/peupliplanche.png
+Allow: /img/planche/peupliplanche2.png
+Allow: /

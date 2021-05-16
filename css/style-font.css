@@ -1,0 +1,31 @@
+@font-face {
+    font-family: 'alcubierre';
+    src: url('../ressources/fonts/alcubierre.woff2') format('woff2'),
+         url('../ressources/fonts/alcubierre.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'big_john';
+    src: url('../ressources/fonts/big_john.woff2') format('woff2'),
+         url('../ressources/fonts/big_john.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'leafy';
+    src: url('../ressources/fonts/leafy.woff2') format('woff2'),
+         url('../ressources/fonts/leafy.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'slim_joe';
+    src: url('../ressources/fonts/slim_joe.woff2') format('woff2'),
+         url('../ressources/fonts/slim_joe.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
